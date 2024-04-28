@@ -74,6 +74,10 @@ tags
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+### emacs
+cscope.files
+cscope.out
+
 # Local History for Visual Studio Code
 .history/
 
